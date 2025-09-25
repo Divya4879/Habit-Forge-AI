@@ -1,14 +1,25 @@
 # HabitForge AI 🚀
 
-> AI-powered habit visualization and transformation platform that helps users build better habits through intelligent insights and visual progress tracking.
+> AI Powered habit visualization and transformation platform that helps users build better habits through intelligent insights and visual progress tracking.
+
+Check it out here:- [HabitForge](https://habitforge-ai-service-431598970790.us-central1.run.app)
+
+<img width="1920" height="1507" alt="screencapture-habitforge-ai-service-431598970790-us-central1-run-app-2025-09-11-11_01_10" src="https://github.com/user-attachments/assets/2ee588d0-d7e8-4bdb-a5fb-d2869fd84d96" />
+<img width="1920" height="1494" alt="screencapture-habitforge-ai-service-431598970790-us-central1-run-app-2025-09-11-11_02_53" src="https://github.com/user-attachments/assets/1ffc71a5-062f-4e3e-a2ea-7de9d71d5683" />
+<img width="797" height="754" alt="Screenshot 2025-09-25 100516" src="https://github.com/user-attachments/assets/473f8a84-b01a-44c1-9377-515408f8212e" />
+<img width="1920" height="1855" alt="screencapture-habitforge-ai-service-431598970790-us-central1-run-app-2025-09-11-11_05_59" src="https://github.com/user-attachments/assets/6549a555-a2ec-4dd2-9ca9-0b457bc2fd09" />
+<img width="1920" height="1855" alt="screencapture-habitforge-ai-service-431598970790-us-central1-run-app-2025-09-11-11_10_07" src="https://github.com/user-attachments/assets/24ff21c5-3af0-4166-b49e-65eb7934e70f" />
+<img width="944" height="476" alt="Screenshot 2025-09-25 100532" src="https://github.com/user-attachments/assets/ff946afd-f633-4c95-8e0d-c2962519bfb3" />
+
+
 
 ## 📋 Overview
 
-HabitForge AI is a modern web application that leverages Google's Gemini AI to provide personalized habit recommendations, visual progress tracking, and actionable insights. Built with React, TypeScript, and Express.js, it offers an intuitive interface for habit formation and maintenance.
+HabitForge AI is a modern web application that leverages Google's Gemini 2.5 Flash AI API capabilities to provide personalized habit recommendations, visual progress tracking, and actionable insights. Built with React, TypeScript, and Express.js, it offers an intuitive interface for habit formation and user discipline.
 
 ## ✨ Features
 
-- **AI-Powered Habit Analysis** - Intelligent habit recommendations using Gemini AI
+- **AI-Powered Habit Analysis** - Intelligent habit recommendations using Gemini 2.5 Flash 
 - **Visual Progress Tracking** - Dynamic visualizations of habit progress
 - **Custom Habit Creation** - Add and analyze personalized habits
 - **Multiple Art Styles** - Various visualization styles for habit tracking
@@ -21,7 +32,7 @@ HabitForge AI is a modern web application that leverages Google's Gemini AI to p
 
 - **Frontend**: React 18, TypeScript, Vite
 - **Backend**: Node.js, Express.js
-- **AI Integration**: Google Gemini AI
+- **AI Integration**: Google Gemini AI API, Gemini 2.5 Flash Image Integration
 - **Build Tool**: esbuild
 - **Deployment**: Google Cloud Run, Docker
 
@@ -35,7 +46,7 @@ HabitForge AI is a modern web application that leverages Google's Gemini AI to p
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Divya4879/Habit-Forge-AI.git
    cd habitforge-ai
    ```
 
@@ -149,7 +160,7 @@ habitforge-ai/
 
 ## 🔒 Security
 
-- Environment variables for sensitive data
+- Environment variables for sensitive data( API keys )
 - CORS protection enabled
 - Input validation and sanitization
 - Secure API key handling
@@ -165,14 +176,3 @@ habitforge-ai/
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## 🆘 Support
-
-For support and questions:
-- Create an issue in the repository
-- Check existing documentation
-- Review Cloud Run logs for deployment issues
-
----
-
-**Built with ❤️ using Google Gemini AI**
